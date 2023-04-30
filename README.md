@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<a href="https://github.com/Gabrielle-Silva">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Silva&show_icons=true&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d&rank_icon=github" />
+                              </a>       <a href="https://github.com/Gabrielle-Silva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Silva&layout=compact&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d)](https://github.com/anuraghazra/github-readme-stats"/></a> 
+
 
 <!--
 **Gabrielle-Silva/Gabrielle-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
