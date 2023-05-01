@@ -1,10 +1,10 @@
 
 <a href="https://github.com/Gabrielle-Silva">
- <img align="center" width="570" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Silva&show_icons=true&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d&rank_icon=github" />
+ <img align="center" width="540" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Silva&show_icons=true&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d&rank_icon=github" />
                               </a>       <a href="https://github.com/Gabrielle-Silva">
-  <img align="center" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Silva&layout=compact&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d)](https://github.com/anuraghazra/github-readme-stats"/></a> 
- <img src="https://user-images.githubusercontent.com/95390786/235410305-5deec0df-f3ba-4d2a-a075-ef18a5dec166.png"/>
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Silva&layout=compact&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d)](https://github.com/anuraghazra/github-readme-stats"/></a> 
 
+ <img width="900" src="https://user-images.githubusercontent.com/95390786/235411124-7ca1e2be-c8ca-4628-92a4-5e527e86d000.png"/>
 
 <!--!
 
