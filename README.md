@@ -1,11 +1,13 @@
 
 <a href="https://github.com/Gabrielle-Silva">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Silva&show_icons=true&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d&rank_icon=github" />
+ <img align="center" width="570" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Silva&show_icons=true&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d&rank_icon=github" />
                               </a>       <a href="https://github.com/Gabrielle-Silva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Silva&layout=compact&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d)](https://github.com/anuraghazra/github-readme-stats"/></a> 
+  <img align="center" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielle-Silva&layout=compact&theme=dracula&bg_color=1d1d1d&title_color=e18aad&icon_color=ee9f8d)](https://github.com/anuraghazra/github-readme-stats"/></a> 
+ <img src="https://user-images.githubusercontent.com/95390786/235410305-5deec0df-f3ba-4d2a-a075-ef18a5dec166.png"/>
 
 
-<!--
+<!--!
+
 **Gabrielle-Silva/Gabrielle-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
